@@ -21,9 +21,12 @@ Progress on this project is documented in my blog [here](https://confusedgremlin
 **💬 Languages of Choice**
 
 <p align="right">
-    <img src="imgs/rust.svg" alt="rust" style="vertical-align:top margin:6px 4px">
-    <img src="imgs/typescript.svg" alt="typescript" style="vertical-align:top margin:6px 4px">
-    <img src="imgs/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top margin:6px 4px">
+    <p/>
+    <img src="imgs/rust-original.svg" alt="rust" style="vertical-align:top margin:6px 4px" width=40 height=40>
+    <p/>
+    <img src="imgs/typescript.svg" alt="typescript" style="vertical-align:top margin:6px 4px" width=40 height=40>
+    <p/>
+    <img src="imgs/csharp-original.svg" alt="csharp_dotnet" style="vertical-align:top margin:6px 4px" width=40 height=40>
 </p>
 <br />
 
