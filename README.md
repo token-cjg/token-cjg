@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on building a small metaverse platform.
+🔭 I’m currently working on a few different initiatives.
 
-Progress on this project is documented in my blog [here](https://confusedgremlin.wordpress.com/tag/state-of-the-hobby-project/).
+The main ones are
+
+1. Building Lingara (app.getlingara.com), a language learning app and system,
+2. Authoring a dependently typed programming language, Tungsten (spinningcatstudios.com/tungsten).
+
+In the past I've prototyped a small metaverse platform ; this has been parked since January '26, though I plan to 
+return to working on it again once I've matured my operating posture for driving work + product with software
+factories.
 
 **💬 Languages of Choice**
 
@@ -26,7 +33,6 @@ Progress on this project is documented in my blog [here](https://confusedgremlin
     <p/>
     <img src="imgs/typescript.svg" alt="typescript" style="vertical-align:top margin:6px 4px" width=40 height=40>
     <p/>
-    <img src="imgs/csharp-original.svg" alt="csharp_dotnet" style="vertical-align:top margin:6px 4px" width=40 height=40>
 </p>
 <br />
 
