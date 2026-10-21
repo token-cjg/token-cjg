@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 The main ones are
 
-1. Building Lingara (app.getlingara.com), a language learning app and system,
-2. Authoring a dependently typed programming language, Tungsten (spinningcatstudios.com/tungsten).
+1. Building Lingara ([app.getlingara.com](https://app.getlingara.com)), a language learning app and system,
+2. Authoring a dependently typed programming language, Tungsten ([spinningcatstudios.com/tungsten](https://spinningcatstudios.com/tungsten)).
 
 In the past I've prototyped a small metaverse platform ; this has been parked since January '26, though I plan to 
 return to working on it again once I've matured my operating posture for driving work + product with software
